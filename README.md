@@ -1,4 +1,4 @@
-# parcial-tp2-lucas-goldberg
+# parcial-nt2-lucas-goldberg
 
 ## Project setup
 ```
